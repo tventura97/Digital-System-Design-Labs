@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\12.0\Lab-2\simulation\modelsim
+vController
+!i10b 1
+!s100 NUEC4Y=Hl7;5EV:8WQ88L2
+I8f7^3G:diSzKzF_icPl3_3
+VzgGilIn2Y5YSK@N6_Olha1
+Z1 dC:\altera\12.0\Lab-2\simulation\modelsim
+Z2 w1540784320
+Z3 8C:/altera/12.0/Lab-2/Lab2.v
+Z4 FC:/altera/12.0/Lab-2/Lab2.v
+L0 44
+Z5 OV;L;10.1b;51
+r1
+!s85 0
+31
+Z6 !s108 1540784377.028000
+Z7 !s107 C:/altera/12.0/Lab-2/Lab2.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/12.0/Lab-2|C:/altera/12.0/Lab-2/Lab2.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work +incdir+C:/altera/12.0/Lab-2 -O0
+n@controller
+vFreqDivider
+!i10b 1
+!s100 HzN4ej;?0QFnO=Y8TZkO60
+I04k5nUo3`cQ8COlaPK:L41
+VMbc]Z]8T1gH>B`4C^3FHU1
+R1
+R2
+R3
+R4
+L0 97
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@freq@divider
+vLab2
+!i10b 1
+!s100 Ef5h9REV<P:fX3O:Y3>KZ1
+IUCS5I=4AAUCoK=_oh4_XF0
+V:g1B0KIl@h`JBI=Mc;0:S2
+R1
+R2
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@lab2
+vLED
+!i10b 1
+!s100 7[Pz]71i]k>^Q2^f>@Q=i3
+IkhhUIOnQCbngdPn7Dz7?g2
+VZNIc46a_[2k?S_WTf:2Y>2
+R1
+R2
+R3
+R4
+L0 20
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+n@l@e@d

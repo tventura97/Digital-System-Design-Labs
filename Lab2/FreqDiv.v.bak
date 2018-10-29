@@ -1,0 +1,30 @@
+module FreqDivider(clkin, clkout);
+	input clkin;
+	output clkout;
+	reg clkout;
+	integer counter = 0;
+	integer clock_tracker = 1;
+	always @ (posedge clkin)
+	begin
+		counter = counter + 1;
+		
+		if (counter == 50)
+		begin
+			counter = 0;
+			clock_tracker = clock_tracker*-1;
+		end
+		
+		if (clock_tracker == 1)
+			clkout = 1;
+		else
+			clkout = 0;
+	end
+	
+endmodule
+
+
+	
+	
+	
+
+
